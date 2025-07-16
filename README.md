@@ -26,8 +26,8 @@ write "pin" in pindows directory
 and press enter
 
 ### Direct
-run "pin.cmd"
-only that, no more
+run "pin.cmd",
+only that, no more,
 what? why do you look me in that manner?
 UGH, only go to the other subti--
 
