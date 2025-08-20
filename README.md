@@ -42,3 +42,5 @@ For Windows,  A PC
 For a PC, a work
 For a work, a life
 And for life, a lot of luck
+
+## Report Bugs: mejiamoises757@gamil.com
